@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(0, 41, 63);
+}
+
+#card{
+    height: 600px;
+    width: 500px;
+    border: none;
+    border-radius: 12px;
+    background-color: rgb(225, 225, 225);
+    margin-left: 650px;
+    margin-top: 150px;
+
+}
+
+#contact{
+    color: black;
+    font-family: "Noto Sans Georgian", sans-serif;
+    font-size: 50px;
+    margin-left: 100px;
+}
+
+#call{
+    height: 135px;
+    margin-top: 80px;
+    margin-left: 0px;
+}
+
+#flex1{
+    display: flex;
+}
+
+#numb{
+    font-size: 40px;
+    margin-left: 140px;
+    margin-top: -90px;
+}
+
+#email{
+    height: 80px;
+    margin-top: 130px;
+    margin-left: 30px;
+}
+
+#em{
+     font-size: 30px;
+    margin-left: 140px;
+    margin-top: -65px;
+
+}
+
+a{
+    text-decoration: none;
+   
+}
